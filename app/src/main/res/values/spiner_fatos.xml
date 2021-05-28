@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spiner_fatos">
+        <item>Gravíssimo</item>
+        <item>Grave</item>
+        <item>Normal</item>
+        <item>Baixa</item>
+    </string-array>
+</resources>
